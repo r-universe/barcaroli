@@ -1,0 +1,10 @@
+[
+  {
+    "package": "R2BEAT",
+    "oncran": true
+  },
+  {
+    "package": "SamplingStrata",
+    "oncran": true
+  }
+]
