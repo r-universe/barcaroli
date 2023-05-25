@@ -13,3 +13,8 @@
 	url = https://github.com/barcaroli/samplingstrata
 	shallow = true
 	registered = true
+[submodule "ReGenesees"]
+	path = ReGenesees
+	url = https://github.com/DiegoZardetto/ReGenesees
+	shallow = true
+	registered = false
