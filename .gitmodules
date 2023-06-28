@@ -1,20 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "R2BEAT"]
 	path = R2BEAT
 	url = https://github.com/barcaroli/r2beat
-	shallow = true
-	registered = true
 [submodule "SamplingStrata"]
 	path = SamplingStrata
 	url = https://github.com/barcaroli/samplingstrata
-	shallow = true
-	registered = true
 [submodule "ReGenesees"]
 	path = ReGenesees
 	url = https://github.com/DiegoZardetto/ReGenesees
-	shallow = true
 	registered = false
