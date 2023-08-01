@@ -5,10 +5,10 @@
 [submodule "R2BEAT"]
 	path = R2BEAT
 	url = https://github.com/barcaroli/r2beat
-[submodule "SamplingStrata"]
-	path = SamplingStrata
-	url = https://github.com/barcaroli/samplingstrata
 [submodule "ReGenesees"]
 	path = ReGenesees
 	url = https://github.com/DiegoZardetto/ReGenesees
 	registered = false
+[submodule "SamplingStrata"]
+	path = SamplingStrata
+	url = https://github.com/barcaroli/samplingstrata
