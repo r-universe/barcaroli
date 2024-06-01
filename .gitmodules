@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "QGA"]
+	path = QGA
+	url = https://github.com/barcaroli/qga
 [submodule "R2BEAT"]
 	path = R2BEAT
 	url = https://github.com/barcaroli/r2beat
